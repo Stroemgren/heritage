@@ -3,7 +3,12 @@
     "koen": "mand",
     "foedsel": "31. Maj 1909, Vardevej 14 Vejle, Hornstrup Sogn [1]",
     "daab": "25. Juli, Hornstrup Sogn, Vejle Amt [1]",
+    "far": "Hans Sørensen",
+    "adresser": [
+        "Vardevej 14, Vejle [2]"
+    ],
     "referencer": [
-        { "title": "Kontraministerialbog 1892 FKVD - 1912 FKVD, Hornstrup Sogn", "link": "https://www.sa.dk/ao-soegesider/da/billedviser?epid=17123948#164424,27615692" }
+        { "title": "Kontraministerialbog 1892 FKVD - 1912 FKVD, Hornstrup Sogn", "link": "https://www.sa.dk/ao-soegesider/da/billedviser?epid=17123948#164424,27615692" },
+        { "title": "Folketælling 1911, Købstæder", "link": "https://www.sa.dk/ao-soegesider/da/billedviser?bsid=67186#67186,12695414" }
     ]
 }
