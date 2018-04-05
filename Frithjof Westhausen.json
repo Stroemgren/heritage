@@ -1,4 +1,11 @@
 {
     "navn": "Frithjof Westhausen",
-    "koen": "mand"
+    "foedsel": "17. Januar 1912, Kapelvej 50 st.",
+    "profession": "Tjener",
+    "koen": "mand",
+    "far": "Carl Christrian Westhausen",
+    "mor": "Jensine Rasmine Westhausen",
+    "referencer": [
+        { "title": "Kontraministerialbog 1912 F - 1936 F, Brorsons Sogn", "link": "https://www.sa.dk/ao-soegesider/da/billedviser?epid=17114305#148608,24557100" }
+    ]
 }
